@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-breadcrumb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "rollup": "^4.27.4",
+    "vite": "^6.0.1"
+  }
+}
